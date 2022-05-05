@@ -39,7 +39,7 @@ Not a fan of bits of the stack? Fork it, change it, and use `npx create-remix --
   npm run dev
   ```
 
-This starts your app in development mode, rebuilding assets on file changes.
+This starts your app in development mode at http://localhost:3000/, rebuilding assets on file changes.
 
 ### Relevant code:
 
